@@ -2,7 +2,7 @@
 
 [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
 
-<h1> Fake API </h1>
+<h1> Simulation of API </h1>
 
 This repository serves to publish a fake API as written in the json file.
 Its purposes are only demonstrative, to interact with our Front-end.
