@@ -1,11 +1,12 @@
-## Instruções de uso
+## Instructions for use
 
 [https://my-json-server.typicode.com/](https://my-json-server.typicode.com/)
 
 <h1> Fake API </h1>
 
-Esse repositório serve para publicar uma falsa API conforme escrito no arquivo json.
-Seus fins são apenas demonstrativos, para interagir com o nosso Front-end.
+This repository serves to publish a fake API as written in the json file.
+Its purposes are only demonstrative, to interact with our Front-end.
+It is possible to add, remove or edit items, but the data is not saved.
 
-Em desenvolvimento recomendo o uso do json-server que faz a mesma coisa, porém roda localmente, e é possivel fazer todo o CRUD.
+In development I recommend using json-server which does the same thing, but runs locally, and it is possible to do all the CRUD.
 [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
